@@ -16,7 +16,8 @@ Next, you will be prompted for a level of detail on a scale of 1-10. **Important
 Note: Pixelfy has not been calibrated for numbers outside of this range, however, numbers greater than 10 can be provided for a more extreme level of abstraction. Results may vary.
 
 ## Example
-![alt text](https://github.com/kevbot606/pixelfy/blob/main/pic.jpg?raw=true) ![alt text](https://github.com/kevbot606/pixelfy/blob/main/alt_pic.png?raw=true)
+![alt text](https://github.com/kevbot606/pixelfy/blob/main/pic.jpg?raw=true)| =250x250
+![alt text](https://github.com/kevbot606/pixelfy/blob/main/alt_pic.png?raw=true)
 
 
 
